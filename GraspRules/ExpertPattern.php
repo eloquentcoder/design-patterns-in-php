@@ -4,4 +4,5 @@
 // all the information needed to instantiate the object B.
 // Object A must be an expert on object B. We can use the 
 // same example in the creator pattern. The bike class is an 
-// expert of how to class wheel and frame
+// expert of how to class wheel and frame since it is passing
+// the frame length to the frame and the wheel width to the wheel
